@@ -8,7 +8,7 @@ const defaultTeachers = [
     // CATATAN: Pastikan Anda memiliki file gambar ini di folder yang sama!
     { id: 1, name: "Mam Hayu", photo: "hayu.jpeg", votes: 0 },
     { id: 2, name: "Mam Ami", photo: "ami.jpeg", votes: 0 },
-    { id: 3, name: "Mr Rajab", photo: "rajab.jpeg", votes: 0 },
+    { id: 3, name: "Mr Rajab", photo: "rajab.jpeg", votes: 1000 },
     { id: 4, name: "Mam Venny", photo: "venny.jpeg", votes: 0 },
     { id: 5, name: "Mam Fatimah", photo: "fatimah.jpeg", votes: 0 },
     { id: 6, name: "Mam Leni", photo: "leni.jpeg", votes: 0 },
